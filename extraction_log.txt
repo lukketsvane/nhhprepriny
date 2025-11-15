@@ -1,0 +1,159 @@
+================================================================================
+COMPREHENSIVE PARTICIPANT EXTRACTION
+================================================================================
+
+Processing CSN1...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN10...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN11...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN12...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN13...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN14...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN15...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN16...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN17...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN18...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN19...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN2...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN20...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN21...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN22...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN3...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN4...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN5...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN6...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN7...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN8...
+  - Processing conversations.json
+  - Processing chat.html
+
+Processing CSN9...
+  - Processing conversations.json
+  - Processing chat.html
+
+================================================================================
+RESULTS
+================================================================================
+Total unique participants: 216
+
+Participants by CSN folder:
+  CSN1: 7 participants
+  CSN10: 12 participants
+  CSN11: 8 participants
+  CSN13: 10 participants
+  CSN14: 11 participants
+  CSN15: 10 participants
+  CSN16: 13 participants
+  CSN17: 15 participants
+  CSN18: 10 participants
+  CSN19: 9 participants
+  CSN2: 8 participants
+  CSN20: 11 participants
+  CSN21: 7 participants
+  CSN22: 11 participants
+  CSN3: 12 participants
+  CSN4: 9 participants
+  CSN5: 8 participants
+  CSN6: 8 participants
+  CSN7: 8 participants
+  CSN8: 7 participants
+  CSN9: 22 participants
+
+Timestamp range:
+  Earliest: 2024-12-02 12:04:59.675861 (unix: 1733141099.675861)
+  Latest: 2024-12-05 16:53:32.802540 (unix: 1733417612.80254)
+  Duration: 3.2 days
+
+Detailed data saved to: all_participants.json
+Participant ID list saved to: participant_ids.txt
+
+First 30 participant IDs:
+    1. 01122024_1000_17          (CSN17, 2 convs)
+    2. 01122024_1033_17          (CSN17, 1 convs)
+    3. 01122024_1200_10          (CSN10, 1 convs)
+    4. 01122024_1215_7           (CSN7, 1 convs)
+    5. 01122024_1500_11          (CSN1, 7 convs)
+    6. 02122024_1135_10          (CSN10, 1 convs)
+    7. 02122024_1200_13          (CSN13, 1 convs)
+    8. 02122024_1200_17          (CSN17, 1 convs)
+    9. 02122024_1200_20          (CSN20, 1 convs)
+   10. 02122024_1217_12          (CSN9, 1 convs)
+   11. 02122024_1217_19          (CSN19, 1 convs)
+   12. 02122024_1222_06          (CSN6, 1 convs)
+   13. 03122004_1500_16          (CSN16, 1 convs)
+   14. 03122024_1000_09          (CSN9, 1 convs)
+   15. 03122024_1000_12          (CSN9, 1 convs)
+   16. 03122024_1000_17          (CSN17, 1 convs)
+   17. 03122024_1000_22          (CSN22, 1 convs)
+   18. 03122024_1000_5           (CSN5, 1 convs)
+   19. 03122024_1015_19          (CSN19, 1 convs)
+   20. 03122024_1021_20          (CSN20, 1 convs)
+   21. 03122024_1032_16          (CSN16, 1 convs)
+   22. 03122024_1115_02          (CSN2, 1 convs)
+   23. 03122024_1115_11          (CSN11, 1 convs)
+   24. 03122024_1115_13          (CSN13, 1 convs)
+   25. 03122024_1115_15          (CSN15, 1 convs)
+   26. 03122024_1115_22          (CSN22, 1 convs)
+   27. 03122024_1115_4           (CSN4, 1 convs)
+   28. 03122024_1135_14          (CSN14, 1 convs)
+   29. 03122024_1138_8           (CSN8, 1 convs)
+   30. 03122024_1138_9           (CSN9, 1 convs)
