@@ -1,0 +1,5818 @@
+[
+  {
+    "participant_id": "01122024_1000_17",
+    "session_start": 1733394818.076653,
+    "session_end": 1733394818.126912,
+    "session_start_dt": "2024-12-05T10:33:38.076653",
+    "session_end_dt": "2024-12-05T10:33:38.126912",
+    "total_session_duration_min": 0.0008376518885294597,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 2,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733394818.076653,
+        "end_time": 1733394823.35988,
+        "duration_min": 0.08805378278096516,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Provided Assistance",
+        "start_time": 1733394818.126912,
+        "end_time": 1733395185.655323,
+        "duration_min": 6.125473515192668,
+        "num_messages": 22,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "01122024_1200_10",
+    "session_start": 1733142075.206,
+    "session_end": 1733142075.206,
+    "session_start_dt": "2024-12-02T12:21:15.206000",
+    "session_end_dt": "2024-12-02T12:21:15.206000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733142075.206,
+        "end_time": 1733142732.846722,
+        "duration_min": 10.960678696632385,
+        "num_messages": 22,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "01122024_1215_7",
+    "session_start": 1733141815.472,
+    "session_end": 1733141815.472,
+    "session_start_dt": "2024-12-02T12:16:55.472000",
+    "session_end_dt": "2024-12-02T12:16:55.472000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Interpretation Inquiry",
+        "start_time": 1733141815.472,
+        "end_time": 1733142704.855805,
+        "duration_min": 14.823063417275746,
+        "num_messages": 26,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "01122024_1500_11",
+    "session_start": 1733141963.519,
+    "session_end": 1733417612.808267,
+    "session_start_dt": "2024-12-02T12:19:23.519000",
+    "session_end_dt": "2024-12-05T16:53:32.808267",
+    "total_session_duration_min": 4594.154821117719,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 6,
+    "esperanto_queries": [
+      {
+        "title": "Esperanto Exercises Help",
+        "start_time": 1733243668.893,
+        "end_time": 1733245099.058381,
+        "duration_min": 23.836089686552683,
+        "num_messages": 64,
+        "user_messages": 32,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [
+      {
+        "title": "ID and Time Query",
+        "start_time": 1733141963.519,
+        "end_time": 1733142232.057059,
+        "duration_min": 4.475634316603343,
+        "num_messages": 14,
+        "user_messages": 7,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Input Assistance",
+        "start_time": 1733417612.808267,
+        "end_time": 1733417908.902595,
+        "duration_min": 4.934905465443929,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      },
+      {
+        "title": "Timestamp Event Summary",
+        "start_time": 1733239726.42,
+        "end_time": 1733240321.925356,
+        "duration_min": 9.925089263916016,
+        "num_messages": 15,
+        "user_messages": 7,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733411883.029593,
+        "end_time": 1733413110.040526,
+        "duration_min": 20.45018221537272,
+        "num_messages": 52,
+        "user_messages": 24,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Provided Assistance",
+        "start_time": 1733312733.853106,
+        "end_time": 1733313228.61253,
+        "duration_min": 8.245990399519602,
+        "num_messages": 8,
+        "user_messages": 3,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID request summary",
+        "start_time": 1733322148.909345,
+        "end_time": 1733322339.725063,
+        "duration_min": 3.180261969566345,
+        "num_messages": 8,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 85,
+    "avg_esperanto_duration": 23.836089686552683,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "02122024_1135_10",
+    "session_start": 1733225652.42,
+    "session_end": 1733225652.42,
+    "session_start_dt": "2024-12-03T11:34:12.420000",
+    "session_end_dt": "2024-12-03T11:34:12.420000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733225652.42,
+        "end_time": 1733226720.875367,
+        "duration_min": 17.807589447498323,
+        "num_messages": 45,
+        "user_messages": 22,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 22,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "02122024_1200_13",
+    "session_start": 1733143027.599,
+    "session_end": 1733143027.599,
+    "session_start_dt": "2024-12-02T12:37:07.599000",
+    "session_end_dt": "2024-12-02T12:37:07.599000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Assistance",
+        "start_time": 1733143027.599,
+        "end_time": 1733143033.540498,
+        "duration_min": 0.09902496735254923,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "02122024_1200_17",
+    "session_start": 1733141972.043,
+    "session_end": 1733141972.043,
+    "session_start_dt": "2024-12-02T12:19:32.043000",
+    "session_end_dt": "2024-12-02T12:19:32.043000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733141972.043,
+        "end_time": 1733142361.319014,
+        "duration_min": 6.487933568159739,
+        "num_messages": 13,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "02122024_1200_20",
+    "session_start": 1733142426.816,
+    "session_end": 1733142426.816,
+    "session_start_dt": "2024-12-02T12:27:06.816000",
+    "session_end_dt": "2024-12-02T12:27:06.816000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Weather Forecast",
+        "start_time": 1733142426.816,
+        "end_time": 1733142929.535184,
+        "duration_min": 8.378653065363567,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "02122024_1217_12",
+    "session_start": 1733141098.66,
+    "session_end": 1733141098.66,
+    "session_start_dt": "2024-12-02T12:04:58.660000",
+    "session_end_dt": "2024-12-02T12:04:58.660000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "Lerni Esperanton",
+        "start_time": 1733141098.66,
+        "end_time": 1733142478.70779,
+        "duration_min": 23.000796496868134,
+        "num_messages": 18,
+        "user_messages": 9,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 23.000796496868134,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "02122024_1217_19",
+    "session_start": 1733141873.425,
+    "session_end": 1733141873.425,
+    "session_start_dt": "2024-12-02T12:17:53.425000",
+    "session_end_dt": "2024-12-02T12:17:53.425000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733141873.425,
+        "end_time": 1733142700.51157,
+        "duration_min": 13.78477616707484,
+        "num_messages": 18,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "02122024_1222_06",
+    "session_start": 1733142204.114,
+    "session_end": 1733142204.114,
+    "session_start_dt": "2024-12-02T12:23:24.114000",
+    "session_end_dt": "2024-12-02T12:23:24.114000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Assistance",
+        "start_time": 1733142204.114,
+        "end_time": 1733142204.549644,
+        "duration_min": 0.007260731856028239,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "03122004_1500_16",
+    "session_start": 1733240385.812,
+    "session_end": 1733240385.812,
+    "session_start_dt": "2024-12-03T15:39:45.812000",
+    "session_end_dt": "2024-12-03T15:39:45.812000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733240385.812,
+        "end_time": 1733240386.655657,
+        "duration_min": 0.01406095027923584,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "03122024_1000_09",
+    "session_start": 1733221721.41,
+    "session_end": 1733221721.41,
+    "session_start_dt": "2024-12-03T10:28:41.410000",
+    "session_end_dt": "2024-12-03T10:28:41.410000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733221721.41,
+        "end_time": 1733222343.684973,
+        "duration_min": 10.371249548594157,
+        "num_messages": 30,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1000_12",
+    "session_start": 1733221443.746,
+    "session_end": 1733221443.746,
+    "session_start_dt": "2024-12-03T10:24:03.746000",
+    "session_end_dt": "2024-12-03T10:24:03.746000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733221443.746,
+        "end_time": 1733222143.17949,
+        "duration_min": 11.657224833965302,
+        "num_messages": 30,
+        "user_messages": 14,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 14,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1000_17",
+    "session_start": 1733221544.86,
+    "session_end": 1733221544.86,
+    "session_start_dt": "2024-12-03T10:25:44.860000",
+    "session_end_dt": "2024-12-03T10:25:44.860000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733221544.86,
+        "end_time": 1733222180.383003,
+        "duration_min": 10.592050051689148,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "03122024_1000_22",
+    "session_start": 1733221309.571,
+    "session_end": 1733221309.571,
+    "session_start_dt": "2024-12-03T10:21:49.571000",
+    "session_end_dt": "2024-12-03T10:21:49.571000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733221309.571,
+        "end_time": 1733222126.431507,
+        "duration_min": 13.61434178352356,
+        "num_messages": 43,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "03122024_1000_5",
+    "session_start": 1733221582.445,
+    "session_end": 1733221582.445,
+    "session_start_dt": "2024-12-03T10:26:22.445000",
+    "session_end_dt": "2024-12-03T10:26:22.445000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733221582.445,
+        "end_time": 1733222062.109727,
+        "duration_min": 7.9944121162096655,
+        "num_messages": 18,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "03122024_1000_6",
+    "session_start": 1733230758.752,
+    "session_end": 1733230758.752,
+    "session_start_dt": "2024-12-03T12:59:18.752000",
+    "session_end_dt": "2024-12-03T12:59:18.752000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Conversation Summary Request",
+        "start_time": 1733230758.752,
+        "end_time": 1733231542.976198,
+        "duration_min": 13.070403297742208,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "03122024_1015_19",
+    "session_start": 1733220942.048,
+    "session_end": 1733220942.048,
+    "session_start_dt": "2024-12-03T10:15:42.048000",
+    "session_end_dt": "2024-12-03T10:15:42.048000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Reference Assistance",
+        "start_time": 1733220942.048,
+        "end_time": 1733221943.909346,
+        "duration_min": 16.697689100106558,
+        "num_messages": 74,
+        "user_messages": 36,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 36,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "03122024_1021_20",
+    "session_start": 1733220582.645,
+    "session_end": 1733220582.645,
+    "session_start_dt": "2024-12-03T10:09:42.645000",
+    "session_end_dt": "2024-12-03T10:09:42.645000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "Esperanto Traduko Klarigo",
+        "start_time": 1733220582.645,
+        "end_time": 1733221748.165886,
+        "duration_min": 19.425348099072774,
+        "num_messages": 34,
+        "user_messages": 17,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 17,
+    "avg_esperanto_duration": 19.425348099072774,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1032_16",
+    "session_start": 1733221882.29,
+    "session_end": 1733221882.29,
+    "session_start_dt": "2024-12-03T10:31:22.290000",
+    "session_end_dt": "2024-12-03T10:31:22.290000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Date Time Identifier Query",
+        "start_time": 1733221882.29,
+        "end_time": 1733222187.23441,
+        "duration_min": 5.082406834761302,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "03122024_1115_02",
+    "session_start": 1733225963.825,
+    "session_end": 1733225963.825,
+    "session_start_dt": "2024-12-03T11:39:23.825000",
+    "session_end_dt": "2024-12-03T11:39:23.825000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Provided Assistance",
+        "start_time": 1733225963.825,
+        "end_time": 1733227035.60329,
+        "duration_min": 17.862971500555673,
+        "num_messages": 56,
+        "user_messages": 27,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 27,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "03122024_1115_11",
+    "session_start": 1733226479.379,
+    "session_end": 1733226479.379,
+    "session_start_dt": "2024-12-03T11:47:59.379000",
+    "session_end_dt": "2024-12-03T11:47:59.379000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Summary",
+        "start_time": 1733226479.379,
+        "end_time": 1733228526.185098,
+        "duration_min": 34.11343496640523,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "03122024_1115_13",
+    "session_start": 1733226227.721,
+    "session_end": 1733226227.721,
+    "session_start_dt": "2024-12-03T11:43:47.721000",
+    "session_end_dt": "2024-12-03T11:43:47.721000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Request",
+        "start_time": 1733226227.721,
+        "end_time": 1733227027.492675,
+        "duration_min": 13.329527918497721,
+        "num_messages": 66,
+        "user_messages": 30,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 30,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "03122024_1115_15",
+    "session_start": 1733225598.166,
+    "session_end": 1733225598.166,
+    "session_start_dt": "2024-12-03T11:33:18.166000",
+    "session_end_dt": "2024-12-03T11:33:18.166000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733225598.166,
+        "end_time": 1733227027.931637,
+        "duration_min": 23.829427285989127,
+        "num_messages": 84,
+        "user_messages": 41,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 41,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "03122024_1115_20",
+    "session_start": 1733225770.886,
+    "session_end": 1733225770.886,
+    "session_start_dt": "2024-12-03T11:36:10.886000",
+    "session_end_dt": "2024-12-03T11:36:10.886000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733225770.886,
+        "end_time": 1733226358.401285,
+        "duration_min": 9.791921416918436,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1115_22",
+    "session_start": 1733226075.336,
+    "session_end": 1733226075.336,
+    "session_start_dt": "2024-12-03T11:41:15.336000",
+    "session_end_dt": "2024-12-03T11:41:15.336000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733226075.336,
+        "end_time": 1733226253.1331477,
+        "duration_min": 2.963285795847575,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "03122024_1115_4",
+    "session_start": 1733226074.605,
+    "session_end": 1733226074.605,
+    "session_start_dt": "2024-12-03T11:41:14.605000",
+    "session_end_dt": "2024-12-03T11:41:14.605000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request and Assistance",
+        "start_time": 1733226074.605,
+        "end_time": 1733226932.531516,
+        "duration_min": 14.298775267601012,
+        "num_messages": 68,
+        "user_messages": 34,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 34,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "03122024_1135_14",
+    "session_start": 1733225796.708,
+    "session_end": 1733225796.708,
+    "session_start_dt": "2024-12-03T11:36:36.708000",
+    "session_end_dt": "2024-12-03T11:36:36.708000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733225796.708,
+        "end_time": 1733235614.960545,
+        "duration_min": 163.63754241863887,
+        "num_messages": 144,
+        "user_messages": 72,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 72,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "03122024_1138_8",
+    "session_start": 1733225907.674,
+    "session_end": 1733225907.674,
+    "session_start_dt": "2024-12-03T11:38:27.674000",
+    "session_end_dt": "2024-12-03T11:38:27.674000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Reference Request",
+        "start_time": 1733225907.674,
+        "end_time": 1733226694.111403,
+        "duration_min": 13.107290049393972,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "03122024_1138_9",
+    "session_start": 1733225949.588,
+    "session_end": 1733225949.588,
+    "session_start_dt": "2024-12-03T11:39:09.588000",
+    "session_end_dt": "2024-12-03T11:39:09.588000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Inquiry",
+        "start_time": 1733225949.588,
+        "end_time": 1733226764.139001,
+        "duration_min": 13.575850013891856,
+        "num_messages": 29,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1139_7",
+    "session_start": 1733225982.893,
+    "session_end": 1733225982.893,
+    "session_start_dt": "2024-12-03T11:39:42.893000",
+    "session_end_dt": "2024-12-03T11:39:42.893000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733225982.893,
+        "end_time": 1733226911.262994,
+        "duration_min": 15.472833236058554,
+        "num_messages": 30,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "03122024_1140_19",
+    "session_start": 1733226018.838,
+    "session_end": 1733226018.838,
+    "session_start_dt": "2024-12-03T11:40:18.838000",
+    "session_end_dt": "2024-12-03T11:40:18.838000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733226018.838,
+        "end_time": 1733226657.554884,
+        "duration_min": 10.645281398296357,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "03122024_1143_12",
+    "session_start": 1733226210.159,
+    "session_end": 1733226210.159,
+    "session_start_dt": "2024-12-03T11:43:30.159000",
+    "session_end_dt": "2024-12-03T11:43:30.159000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733226210.159,
+        "end_time": 1733226939.444879,
+        "duration_min": 12.154764652252197,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1145_20",
+    "session_start": 1733234211.675,
+    "session_end": 1733234211.675,
+    "session_start_dt": "2024-12-03T13:56:51.675000",
+    "session_end_dt": "2024-12-03T13:56:51.675000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733234211.675,
+        "end_time": 1733235429.550254,
+        "duration_min": 20.297920902570088,
+        "num_messages": 62,
+        "user_messages": 31,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 31,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1230_11",
+    "session_start": 1733230366.414,
+    "session_end": 1733230366.414,
+    "session_start_dt": "2024-12-03T12:52:46.414000",
+    "session_end_dt": "2024-12-03T12:52:46.414000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733230366.414,
+        "end_time": 1733230962.297029,
+        "duration_min": 9.931383816401164,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "03122024_1230_12",
+    "session_start": 1733230789.573,
+    "session_end": 1733230789.573,
+    "session_start_dt": "2024-12-03T12:59:49.573000",
+    "session_end_dt": "2024-12-03T12:59:49.573000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Query Assistance",
+        "start_time": 1733230789.573,
+        "end_time": 1733231381.859872,
+        "duration_min": 9.871447869141896,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1230_14",
+    "session_start": 1733230765.997,
+    "session_end": 1733230765.997,
+    "session_start_dt": "2024-12-03T12:59:25.997000",
+    "session_end_dt": "2024-12-03T12:59:25.997000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Timestamp Interpretation Request",
+        "start_time": 1733230765.997,
+        "end_time": 1733231047.912524,
+        "duration_min": 4.6985920667648315,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "03122024_1230_15",
+    "session_start": 1733230635.689,
+    "session_end": 1733230635.689,
+    "session_start_dt": "2024-12-03T12:57:15.689000",
+    "session_end_dt": "2024-12-03T12:57:15.689000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID update request",
+        "start_time": 1733230635.689,
+        "end_time": 1733231610.196516,
+        "duration_min": 16.24179193576177,
+        "num_messages": 40,
+        "user_messages": 19,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 19,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "03122024_1230_16",
+    "session_start": 1733230706.495,
+    "session_end": 1733230706.495,
+    "session_start_dt": "2024-12-03T12:58:26.495000",
+    "session_end_dt": "2024-12-03T12:58:26.495000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledged",
+        "start_time": 1733230706.495,
+        "end_time": 1733231512.48583,
+        "duration_min": 13.433180503050487,
+        "num_messages": 22,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "03122024_1230_17",
+    "session_start": 1733230800.486,
+    "session_end": 1733230800.486,
+    "session_start_dt": "2024-12-03T13:00:00.486000",
+    "session_end_dt": "2024-12-03T13:00:00.486000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733230800.486,
+        "end_time": 1733231524.6331,
+        "duration_min": 12.069118332862853,
+        "num_messages": 8,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "03122024_1230_2",
+    "session_start": 1733230032.114,
+    "session_end": 1733230032.114,
+    "session_start_dt": "2024-12-03T12:47:12.114000",
+    "session_end_dt": "2024-12-03T12:47:12.114000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "Verbo amo en Esperanto",
+        "start_time": 1733230032.114,
+        "end_time": 1733230913.477916,
+        "duration_min": 14.689398598670959,
+        "num_messages": 69,
+        "user_messages": 33,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 33,
+    "avg_esperanto_duration": 14.689398598670959,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "03122024_1230_20",
+    "session_start": 1733230932.985,
+    "session_end": 1733230932.985,
+    "session_start_dt": "2024-12-03T13:02:12.985000",
+    "session_end_dt": "2024-12-03T13:02:12.985000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Weather Update",
+        "start_time": 1733230932.985,
+        "end_time": 1733231657.804113,
+        "duration_min": 12.080318550268808,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1230_3",
+    "session_start": 1733230754.243,
+    "session_end": 1733230754.243,
+    "session_start_dt": "2024-12-03T12:59:14.243000",
+    "session_end_dt": "2024-12-03T12:59:14.243000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733230754.243,
+        "end_time": 1733231660.293301,
+        "duration_min": 15.100838351249696,
+        "num_messages": 34,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "03122024_1230_8",
+    "session_start": 1733230913.71,
+    "session_end": 1733230913.71,
+    "session_start_dt": "2024-12-03T13:01:53.710000",
+    "session_end_dt": "2024-12-03T13:01:53.710000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Weather Forecast",
+        "start_time": 1733230913.71,
+        "end_time": 1733231538.763159,
+        "duration_min": 10.417552649974823,
+        "num_messages": 9,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "03122024_1230_9",
+    "session_start": 1733231459.928,
+    "session_end": 1733231459.928,
+    "session_start_dt": "2024-12-03T13:10:59.928000",
+    "session_end_dt": "2024-12-03T13:10:59.928000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "March 12 2024 Events",
+        "start_time": 1733231459.928,
+        "end_time": 1733231588.958964,
+        "duration_min": 2.1505160689353944,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1300_4",
+    "session_start": 1733230794.17,
+    "session_end": 1733230794.17,
+    "session_start_dt": "2024-12-03T12:59:54.170000",
+    "session_end_dt": "2024-12-03T12:59:54.170000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing and Assistance",
+        "start_time": 1733230794.17,
+        "end_time": 1733231739.533117,
+        "duration_min": 15.756051949659984,
+        "num_messages": 33,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "03122024_1302_18",
+    "session_start": 1733230972.049,
+    "session_end": 1733230972.049,
+    "session_start_dt": "2024-12-03T13:02:52.049000",
+    "session_end_dt": "2024-12-03T13:02:52.049000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Provided Assistance",
+        "start_time": 1733230972.049,
+        "end_time": 1733231607.390296,
+        "duration_min": 10.589021599292755,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "03122024_1305_22",
+    "session_start": 1733231092.76,
+    "session_end": 1733231092.76,
+    "session_start_dt": "2024-12-03T13:04:52.760000",
+    "session_end_dt": "2024-12-03T13:04:52.760000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733231092.76,
+        "end_time": 1733231668.367551,
+        "duration_min": 9.593459184964498,
+        "num_messages": 14,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "03122024_1345_07",
+    "session_start": 1733235081.39,
+    "session_end": 1733235081.39,
+    "session_start_dt": "2024-12-03T14:11:21.390000",
+    "session_end_dt": "2024-12-03T14:11:21.390000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733235081.39,
+        "end_time": 1733235862.149603,
+        "duration_min": 13.012660046418508,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "03122024_1345_11",
+    "session_start": 1733235061.884,
+    "session_end": 1733235061.884,
+    "session_start_dt": "2024-12-03T14:11:01.884000",
+    "session_end_dt": "2024-12-03T14:11:01.884000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Reference Request",
+        "start_time": 1733235061.884,
+        "end_time": 1733235771.674892,
+        "duration_min": 11.829848198095958,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "03122024_1345_12",
+    "session_start": 1733235013.128,
+    "session_end": 1733235013.128,
+    "session_start_dt": "2024-12-03T14:10:13.128000",
+    "session_end_dt": "2024-12-03T14:10:13.128000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Verification Request",
+        "start_time": 1733235013.128,
+        "end_time": 1733235575.002504,
+        "duration_min": 9.364575068155924,
+        "num_messages": 22,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1345_13",
+    "session_start": 1733235291.145,
+    "session_end": 1733235291.145,
+    "session_start_dt": "2024-12-03T14:14:51.145000",
+    "session_end_dt": "2024-12-03T14:14:51.145000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733235291.145,
+        "end_time": 1733235769.973603,
+        "duration_min": 7.980476717154185,
+        "num_messages": 21,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "03122024_1345_16",
+    "session_start": 1733234458.423,
+    "session_end": 1733234458.423,
+    "session_start_dt": "2024-12-03T14:00:58.423000",
+    "session_end_dt": "2024-12-03T14:00:58.423000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Response",
+        "start_time": 1733234458.423,
+        "end_time": 1733235219.687488,
+        "duration_min": 12.68774146636327,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "03122024_1345_17",
+    "session_start": 1733234765.223,
+    "session_end": 1733234765.223,
+    "session_start_dt": "2024-12-03T14:06:05.223000",
+    "session_end_dt": "2024-12-03T14:06:05.223000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733234765.223,
+        "end_time": 1733235732.373445,
+        "duration_min": 16.119174083073933,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "03122024_1345_19",
+    "session_start": 1733235062.203,
+    "session_end": 1733235062.203,
+    "session_start_dt": "2024-12-03T14:11:02.203000",
+    "session_end_dt": "2024-12-03T14:11:02.203000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Summary",
+        "start_time": 1733235062.203,
+        "end_time": 1733235823.606927,
+        "duration_min": 12.69006544748942,
+        "num_messages": 54,
+        "user_messages": 27,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 27,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "03122024_1345_4",
+    "session_start": 1733235227.795,
+    "session_end": 1733235227.795,
+    "session_start_dt": "2024-12-03T14:13:47.795000",
+    "session_end_dt": "2024-12-03T14:13:47.795000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733235227.795,
+        "end_time": 1733235821.020311,
+        "duration_min": 9.887088517347971,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "03122024_1406_21",
+    "session_start": 1733235118.022,
+    "session_end": 1733235118.022,
+    "session_start_dt": "2024-12-03T14:11:58.022000",
+    "session_end_dt": "2024-12-03T14:11:58.022000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733235118.022,
+        "end_time": 1733235777.10797,
+        "duration_min": 10.984766165415445,
+        "num_messages": 24,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "03122024_1500_10",
+    "session_start": 1733239739.816,
+    "session_end": 1733239739.816,
+    "session_start_dt": "2024-12-03T15:28:59.816000",
+    "session_end_dt": "2024-12-03T15:28:59.816000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Response",
+        "start_time": 1733239739.816,
+        "end_time": 1733240487.63523,
+        "duration_min": 12.463653834660848,
+        "num_messages": 30,
+        "user_messages": 14,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 14,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "03122024_1500_11",
+    "session_start": 1733234766.803,
+    "session_end": 1733234766.803,
+    "session_start_dt": "2024-12-03T14:06:06.803000",
+    "session_end_dt": "2024-12-03T14:06:06.803000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733234766.803,
+        "end_time": 1733235669.049717,
+        "duration_min": 15.037445282936096,
+        "num_messages": 52,
+        "user_messages": 24,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 24,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "03122024_1500_12",
+    "session_start": 1733239434.112,
+    "session_end": 1733239434.112,
+    "session_start_dt": "2024-12-03T15:23:54.112000",
+    "session_end_dt": "2024-12-03T15:23:54.112000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733239434.112,
+        "end_time": 1733239434.807943,
+        "duration_min": 0.01159905195236206,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1500_13",
+    "session_start": 1733239260.703,
+    "session_end": 1733239260.703,
+    "session_start_dt": "2024-12-03T15:21:00.703000",
+    "session_end_dt": "2024-12-03T15:21:00.703000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733239260.703,
+        "end_time": 1733239983.785494,
+        "duration_min": 12.051374900341035,
+        "num_messages": 25,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "03122024_1500_15",
+    "session_start": 1733239645.634,
+    "session_end": 1733239645.634,
+    "session_start_dt": "2024-12-03T15:27:25.634000",
+    "session_end_dt": "2024-12-03T15:27:25.634000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733239645.634,
+        "end_time": 1733240312.367668,
+        "duration_min": 11.11222779750824,
+        "num_messages": 26,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "03122024_1500_20",
+    "session_start": 1733239492.131,
+    "session_end": 1733239492.131,
+    "session_start_dt": "2024-12-03T15:24:52.131000",
+    "session_end_dt": "2024-12-03T15:24:52.131000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733239492.131,
+        "end_time": 1733240034.975842,
+        "duration_min": 9.047414032618205,
+        "num_messages": 13,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1500_21",
+    "session_start": 1733239310.957,
+    "session_end": 1733239310.957,
+    "session_start_dt": "2024-12-03T15:21:50.957000",
+    "session_end_dt": "2024-12-03T15:21:50.957000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Help",
+        "start_time": 1733239310.957,
+        "end_time": 1733239945.220379,
+        "duration_min": 10.57105631828308,
+        "num_messages": 22,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "03122024_1500_6",
+    "session_start": 1733239366.5,
+    "session_end": 1733239366.5,
+    "session_start_dt": "2024-12-03T15:22:46.500000",
+    "session_end_dt": "2024-12-03T15:22:46.500000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733239366.5,
+        "end_time": 1733240200.446307,
+        "duration_min": 13.899105115731556,
+        "num_messages": 24,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "03122024_1521_3",
+    "session_start": 1733239357.987,
+    "session_end": 1733239357.987,
+    "session_start_dt": "2024-12-03T15:22:37.987000",
+    "session_end_dt": "2024-12-03T15:22:37.987000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733239357.987,
+        "end_time": 1733240191.682586,
+        "duration_min": 13.894926432768504,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "03122024_1529_09",
+    "session_start": 1733239766.382,
+    "session_end": 1733239766.382,
+    "session_start_dt": "2024-12-03T15:29:26.382000",
+    "session_end_dt": "2024-12-03T15:29:26.382000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733239766.382,
+        "end_time": 1733240119.020751,
+        "duration_min": 5.877312517166137,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1615_17",
+    "session_start": 1733244764.308,
+    "session_end": 1733244764.308,
+    "session_start_dt": "2024-12-03T16:52:44.308000",
+    "session_end_dt": "2024-12-03T16:52:44.308000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733244764.308,
+        "end_time": 1733245005.465693,
+        "duration_min": 4.019294881820679,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "03122024_1615_18",
+    "session_start": 1733243907.005,
+    "session_end": 1733243907.005,
+    "session_start_dt": "2024-12-03T16:38:27.005000",
+    "session_end_dt": "2024-12-03T16:38:27.005000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Verification Assistance",
+        "start_time": 1733243907.005,
+        "end_time": 1733245025.80956,
+        "duration_min": 18.64674266576767,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "03122024_1615_20",
+    "session_start": 1733243615.303,
+    "session_end": 1733243615.303,
+    "session_start_dt": "2024-12-03T16:33:35.303000",
+    "session_end_dt": "2024-12-03T16:33:35.303000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Response",
+        "start_time": 1733243615.303,
+        "end_time": 1733244481.658598,
+        "duration_min": 14.439259966214498,
+        "num_messages": 42,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1615_22",
+    "session_start": 1733417080.507422,
+    "session_end": 1733417080.507422,
+    "session_start_dt": "2024-12-05T16:44:40.507422",
+    "session_end_dt": "2024-12-05T16:44:40.507422",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733417080.507422,
+        "end_time": 1733418017.73118,
+        "duration_min": 15.6203959663709,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "03122024_1615_6",
+    "session_start": 1733244016.482,
+    "session_end": 1733244016.482,
+    "session_start_dt": "2024-12-03T16:40:16.482000",
+    "session_end_dt": "2024-12-03T16:40:16.482000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733244016.482,
+        "end_time": 1733244701.181053,
+        "duration_min": 11.411650880177815,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "03122024_1631_5",
+    "session_start": 1733243482.782,
+    "session_end": 1733243482.782,
+    "session_start_dt": "2024-12-03T16:31:22.782000",
+    "session_end_dt": "2024-12-03T16:31:22.782000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request and Response",
+        "start_time": 1733243482.782,
+        "end_time": 1733244424.029018,
+        "duration_min": 15.687450297673543,
+        "num_messages": 55,
+        "user_messages": 28,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 28,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "03122024_1642_13",
+    "session_start": 1733244102.409,
+    "session_end": 1733244102.409,
+    "session_start_dt": "2024-12-03T16:41:42.409000",
+    "session_end_dt": "2024-12-03T16:41:42.409000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Events December 2024",
+        "start_time": 1733244102.409,
+        "end_time": 1733244917.829746,
+        "duration_min": 13.5903457681338,
+        "num_messages": 57,
+        "user_messages": 29,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 29,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "03122024_1642_7",
+    "session_start": 1733244171.292,
+    "session_end": 1733244171.292,
+    "session_start_dt": "2024-12-03T16:42:51.292000",
+    "session_end_dt": "2024-12-03T16:42:51.292000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733244171.292,
+        "end_time": 1733244626.936539,
+        "duration_min": 7.594075647989909,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "03122024_1644_11",
+    "session_start": 1733244199.306,
+    "session_end": 1733244199.306,
+    "session_start_dt": "2024-12-03T16:43:19.306000",
+    "session_end_dt": "2024-12-03T16:43:19.306000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Clarification",
+        "start_time": 1733244199.306,
+        "end_time": 1733244672.868471,
+        "duration_min": 7.8927078485488895,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "03122024_1646_3",
+    "session_start": 1733244425.187,
+    "session_end": 1733244425.187,
+    "session_start_dt": "2024-12-03T16:47:05.187000",
+    "session_end_dt": "2024-12-03T16:47:05.187000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733244425.187,
+        "end_time": 1733245099.426557,
+        "duration_min": 11.237325950463612,
+        "num_messages": 31,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "03122024_1648_3",
+    "session_start": 1733244508.778,
+    "session_end": 1733244508.778,
+    "session_start_dt": "2024-12-03T16:48:28.778000",
+    "session_end_dt": "2024-12-03T16:48:28.778000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733244508.778,
+        "end_time": 1733245108.370697,
+        "duration_min": 9.993211615085603,
+        "num_messages": 48,
+        "user_messages": 23,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 23,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "03122024_1730_10",
+    "session_start": 1733249139.465,
+    "session_end": 1733249139.465,
+    "session_start_dt": "2024-12-03T18:05:39.465000",
+    "session_end_dt": "2024-12-03T18:05:39.465000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733249139.465,
+        "end_time": 1733249661.969622,
+        "duration_min": 8.70841036637624,
+        "num_messages": 14,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "03122024_1730_12",
+    "session_start": 1733248393.464,
+    "session_end": 1733248393.464,
+    "session_start_dt": "2024-12-03T17:53:13.464000",
+    "session_end_dt": "2024-12-03T17:53:13.464000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733248393.464,
+        "end_time": 1733248995.18842,
+        "duration_min": 10.028740334510804,
+        "num_messages": 14,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "03122024_1730_16",
+    "session_start": 1733249054.865,
+    "session_end": 1733249054.865,
+    "session_start_dt": "2024-12-03T18:04:14.865000",
+    "session_end_dt": "2024-12-03T18:04:14.865000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733249054.865,
+        "end_time": 1733249703.496465,
+        "duration_min": 10.810524415969848,
+        "num_messages": 28,
+        "user_messages": 14,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 14,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "03122024_1730_17",
+    "session_start": 1733248200.733,
+    "session_end": 1733248200.733,
+    "session_start_dt": "2024-12-03T17:50:00.733000",
+    "session_end_dt": "2024-12-03T17:50:00.733000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733248200.733,
+        "end_time": 1733248403.417029,
+        "duration_min": 3.378067147731781,
+        "num_messages": 10,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "03122024_1730_20",
+    "session_start": 1733248602.189,
+    "session_end": 1733248602.189,
+    "session_start_dt": "2024-12-03T17:56:42.189000",
+    "session_end_dt": "2024-12-03T17:56:42.189000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733248602.189,
+        "end_time": 1733248606.648454,
+        "duration_min": 0.0743242343266805,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "03122024_1730_21",
+    "session_start": 1733248372.813,
+    "session_end": 1733248372.813,
+    "session_start_dt": "2024-12-03T17:52:52.813000",
+    "session_end_dt": "2024-12-03T17:52:52.813000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Noted Assistance",
+        "start_time": 1733248372.813,
+        "end_time": 1733249100.730306,
+        "duration_min": 12.131955099105834,
+        "num_messages": 18,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "03122024_1730_3",
+    "session_start": 1733247906.34,
+    "session_end": 1733247906.34,
+    "session_start_dt": "2024-12-03T17:45:06.340000",
+    "session_end_dt": "2024-12-03T17:45:06.340000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733247906.34,
+        "end_time": 1733249070.799123,
+        "duration_min": 19.407652052243552,
+        "num_messages": 40,
+        "user_messages": 19,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 19,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "03122024_1730_4",
+    "session_start": 1733247787.195,
+    "session_end": 1733247787.195,
+    "session_start_dt": "2024-12-03T17:43:07.195000",
+    "session_end_dt": "2024-12-03T17:43:07.195000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "Esperanto Language Facts",
+        "start_time": 1733247787.195,
+        "end_time": 1733249665.290004,
+        "duration_min": 31.3015834013621,
+        "num_messages": 28,
+        "user_messages": 14,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 14,
+    "avg_esperanto_duration": 31.3015834013621,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "03122024_1750_18",
+    "session_start": 1733247767.127,
+    "session_end": 1733247767.127,
+    "session_start_dt": "2024-12-03T17:42:47.127000",
+    "session_end_dt": "2024-12-03T17:42:47.127000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Help with Summarizing",
+        "start_time": 1733247767.127,
+        "end_time": 1733249735.351435,
+        "duration_min": 32.80374058087667,
+        "num_messages": 69,
+        "user_messages": 33,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 33,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "03122024_1804_14",
+    "session_start": 1733249078.407,
+    "session_end": 1733249078.407,
+    "session_start_dt": "2024-12-03T18:04:38.407000",
+    "session_end_dt": "2024-12-03T18:04:38.407000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID request summary",
+        "start_time": 1733249078.407,
+        "end_time": 1733249600.830433,
+        "duration_min": 8.707057213783264,
+        "num_messages": 18,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122004_1030_5",
+    "session_start": 1733308282.74688,
+    "session_end": 1733308282.74688,
+    "session_start_dt": "2024-12-04T10:31:22.746880",
+    "session_end_dt": "2024-12-04T10:31:22.746880",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733308282.74688,
+        "end_time": 1733308961.609065,
+        "duration_min": 11.314369750022887,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "04122014_0315_10",
+    "session_start": 1733330283.754876,
+    "session_end": 1733330283.754876,
+    "session_start_dt": "2024-12-04T16:38:03.754876",
+    "session_end_dt": "2024-12-04T16:38:03.754876",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733330283.754876,
+        "end_time": 1733331270.016689,
+        "duration_min": 16.43769688606262,
+        "num_messages": 31,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "04122024_1000_12",
+    "session_start": 1733308238.694735,
+    "session_end": 1733308238.694735,
+    "session_start_dt": "2024-12-04T10:30:38.694735",
+    "session_end_dt": "2024-12-04T10:30:38.694735",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733308238.694735,
+        "end_time": 1733309005.253949,
+        "duration_min": 12.775986897945405,
+        "num_messages": 38,
+        "user_messages": 19,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 19,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1000_14",
+    "session_start": 1733308367.27699,
+    "session_end": 1733308367.27699,
+    "session_start_dt": "2024-12-04T10:32:47.276990",
+    "session_end_dt": "2024-12-04T10:32:47.276990",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733308367.27699,
+        "end_time": 1733308945.863091,
+        "duration_min": 9.643101684252422,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1000_16",
+    "session_start": 1733307309.492883,
+    "session_end": 1733307309.492883,
+    "session_start_dt": "2024-12-04T10:15:09.492883",
+    "session_end_dt": "2024-12-04T10:15:09.492883",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "La birdo flugas traduko",
+        "start_time": 1733307309.492883,
+        "end_time": 1733308989.952155,
+        "duration_min": 28.007654535770417,
+        "num_messages": 48,
+        "user_messages": 24,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 24,
+    "avg_esperanto_duration": 28.007654535770417,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1000_18",
+    "session_start": 1733308330.861773,
+    "session_end": 1733308330.861773,
+    "session_start_dt": "2024-12-04T10:32:10.861773",
+    "session_end_dt": "2024-12-04T10:32:10.861773",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733308330.861773,
+        "end_time": 1733309035.036962,
+        "duration_min": 11.736253150304158,
+        "num_messages": 32,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "04122024_1000_20",
+    "session_start": 1733307865.151871,
+    "session_end": 1733307865.490821,
+    "session_start_dt": "2024-12-04T10:24:25.151871",
+    "session_end_dt": "2024-12-04T10:24:25.490821",
+    "total_session_duration_min": 0.005649165312449137,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 2,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request",
+        "start_time": 1733307865.490821,
+        "end_time": 1733307865.490821,
+        "duration_min": 0.0,
+        "num_messages": 1,
+        "user_messages": 1,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Number Provided",
+        "start_time": 1733307865.151871,
+        "end_time": 1733307865.151871,
+        "duration_min": 0.0,
+        "num_messages": 1,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "04122024_1000_6",
+    "session_start": 1733307698.56756,
+    "session_end": 1733307698.56756,
+    "session_start_dt": "2024-12-04T10:21:38.567560",
+    "session_end_dt": "2024-12-04T10:21:38.567560",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733307698.56756,
+        "end_time": 1733308716.459283,
+        "duration_min": 16.96486205259959,
+        "num_messages": 18,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "04122024_1000_8",
+    "session_start": 1733308061.376265,
+    "session_end": 1733308061.376265,
+    "session_start_dt": "2024-12-04T10:27:41.376265",
+    "session_end_dt": "2024-12-04T10:27:41.376265",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733308061.376265,
+        "end_time": 1733308802.702643,
+        "duration_min": 12.355439631144206,
+        "num_messages": 24,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "04122024_1023_17",
+    "session_start": 1733307824.426665,
+    "session_end": 1733307824.426665,
+    "session_start_dt": "2024-12-04T10:23:44.426665",
+    "session_end_dt": "2024-12-04T10:23:44.426665",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733307824.426665,
+        "end_time": 1733308416.766269,
+        "duration_min": 9.872326731681824,
+        "num_messages": 18,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "04122024_1025_10",
+    "session_start": 1733394362.58948,
+    "session_end": 1733394362.58948,
+    "session_start_dt": "2024-12-05T10:26:02.589480",
+    "session_end_dt": "2024-12-05T10:26:02.589480",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733394362.58948,
+        "end_time": 1733395073.579861,
+        "duration_min": 11.84983968337377,
+        "num_messages": 32,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "04122024_1025_22",
+    "session_start": 1733307926.031292,
+    "session_end": 1733307926.031292,
+    "session_start_dt": "2024-12-04T10:25:26.031292",
+    "session_end_dt": "2024-12-04T10:25:26.031292",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733307926.031292,
+        "end_time": 1733309129.077479,
+        "duration_min": 20.050769782066347,
+        "num_messages": 42,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "04122024_1115_03",
+    "session_start": 1733312365.665924,
+    "session_end": 1733312365.665924,
+    "session_start_dt": "2024-12-04T11:39:25.665924",
+    "session_end_dt": "2024-12-04T11:39:25.665924",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733312365.665924,
+        "end_time": 1733313055.161169,
+        "duration_min": 11.491587416330974,
+        "num_messages": 50,
+        "user_messages": 23,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 23,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "04122024_1115_09",
+    "session_start": 1733312340.851775,
+    "session_end": 1733312340.851775,
+    "session_start_dt": "2024-12-04T11:39:00.851775",
+    "session_end_dt": "2024-12-04T11:39:00.851775",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Verification Request",
+        "start_time": 1733312340.851775,
+        "end_time": 1733313476.160021,
+        "duration_min": 18.921804102261863,
+        "num_messages": 42,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1115_15",
+    "session_start": 1733312803.967163,
+    "session_end": 1733312803.967163,
+    "session_start_dt": "2024-12-04T11:46:43.967163",
+    "session_end_dt": "2024-12-04T11:46:43.967163",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733312803.967163,
+        "end_time": 1733313722.874646,
+        "duration_min": 15.315124714374543,
+        "num_messages": 26,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "04122024_1115_4",
+    "session_start": 1733312465.026709,
+    "session_end": 1733312465.026709,
+    "session_start_dt": "2024-12-04T11:41:05.026709",
+    "session_end_dt": "2024-12-04T11:41:05.026709",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledged",
+        "start_time": 1733312465.026709,
+        "end_time": 1733313616.654136,
+        "duration_min": 19.193790447711944,
+        "num_messages": 50,
+        "user_messages": 25,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 25,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "04122024_1145_18",
+    "session_start": 1733312767.016681,
+    "session_end": 1733312767.016681,
+    "session_start_dt": "2024-12-04T11:46:07.016681",
+    "session_end_dt": "2024-12-04T11:46:07.016681",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733312767.016681,
+        "end_time": 1733313498.16779,
+        "duration_min": 12.185851816336314,
+        "num_messages": 34,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "04122024_1145_19",
+    "session_start": 1733312733.790392,
+    "session_end": 1733312733.790392,
+    "session_start_dt": "2024-12-04T11:45:33.790392",
+    "session_end_dt": "2024-12-04T11:45:33.790392",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request and Assistance",
+        "start_time": 1733312733.790392,
+        "end_time": 1733313106.575974,
+        "duration_min": 6.213093034426371,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "04122024_1146_11",
+    "session_start": 1733312766.780677,
+    "session_end": 1733312766.780677,
+    "session_start_dt": "2024-12-04T11:46:06.780677",
+    "session_end_dt": "2024-12-04T11:46:06.780677",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Summary Request",
+        "start_time": 1733312766.780677,
+        "end_time": 1733313723.558788,
+        "duration_min": 15.946301849683126,
+        "num_messages": 52,
+        "user_messages": 26,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 26,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "04122024_1151_5",
+    "session_start": 1733313084.271052,
+    "session_end": 1733313084.271052,
+    "session_start_dt": "2024-12-04T11:51:24.271052",
+    "session_end_dt": "2024-12-04T11:51:24.271052",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledgment",
+        "start_time": 1733313084.271052,
+        "end_time": 1733313086.134216,
+        "duration_min": 0.031052736441294353,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "04122024_1154_16",
+    "session_start": 1733313286.743861,
+    "session_end": 1733313286.743861,
+    "session_start_dt": "2024-12-04T11:54:46.743861",
+    "session_end_dt": "2024-12-04T11:54:46.743861",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request and Assistance",
+        "start_time": 1733313286.743861,
+        "end_time": 1733313639.302456,
+        "duration_min": 5.875976582368215,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1230_04",
+    "session_start": 1733316758.98054,
+    "session_end": 1733316758.98054,
+    "session_start_dt": "2024-12-04T12:52:38.980540",
+    "session_end_dt": "2024-12-04T12:52:38.980540",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Summary",
+        "start_time": 1733316758.98054,
+        "end_time": 1733317646.027442,
+        "duration_min": 14.784115032354991,
+        "num_messages": 19,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "04122024_1230_13",
+    "session_start": 1733316785.570252,
+    "session_end": 1733316785.570252,
+    "session_start_dt": "2024-12-04T12:53:05.570252",
+    "session_end_dt": "2024-12-04T12:53:05.570252",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733316785.570252,
+        "end_time": 1733317397.88828,
+        "duration_min": 10.205300466219585,
+        "num_messages": 10,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "04122024_1230_15",
+    "session_start": 1733316900.000043,
+    "session_end": 1733317719.891032,
+    "session_start_dt": "2024-12-04T12:55:00.000043",
+    "session_end_dt": "2024-12-04T13:08:39.891032",
+    "total_session_duration_min": 13.664849817752838,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 2,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Timestamp Interpretation Inquiry",
+        "start_time": 1733317719.891032,
+        "end_time": 1733317763.960842,
+        "duration_min": 0.7344968318939209,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      },
+      {
+        "title": "Timestamp format explanation",
+        "start_time": 1733316900.000043,
+        "end_time": 1733317104.523556,
+        "duration_min": 3.4087252179781595,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "04122024_1230_17",
+    "session_start": 1733316784.198791,
+    "session_end": 1733316784.198791,
+    "session_start_dt": "2024-12-04T12:53:04.198791",
+    "session_end_dt": "2024-12-04T12:53:04.198791",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733316784.198791,
+        "end_time": 1733317818.491478,
+        "duration_min": 17.238211448987325,
+        "num_messages": 42,
+        "user_messages": 20,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 20,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "04122024_1230_20",
+    "session_start": 1733316922.485333,
+    "session_end": 1733316922.485333,
+    "session_start_dt": "2024-12-04T12:55:22.485333",
+    "session_end_dt": "2024-12-04T12:55:22.485333",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733316922.485333,
+        "end_time": 1733317679.868045,
+        "duration_min": 12.623045202096304,
+        "num_messages": 14,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "04122024_1230_9",
+    "session_start": 1733316882.38818,
+    "session_end": 1733316882.38818,
+    "session_start_dt": "2024-12-04T12:54:42.388180",
+    "session_end_dt": "2024-12-04T12:54:42.388180",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733316882.38818,
+        "end_time": 1733317761.664453,
+        "duration_min": 14.654604550202688,
+        "num_messages": 30,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1249_14",
+    "session_start": 1733316574.139055,
+    "session_end": 1733316574.139055,
+    "session_start_dt": "2024-12-04T12:49:34.139055",
+    "session_end_dt": "2024-12-04T12:49:34.139055",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733316574.139055,
+        "end_time": 1733317504.568593,
+        "duration_min": 15.507158966859182,
+        "num_messages": 8,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1252_22",
+    "session_start": 1733316766.63527,
+    "session_end": 1733316766.63527,
+    "session_start_dt": "2024-12-04T12:52:46.635270",
+    "session_end_dt": "2024-12-04T12:52:46.635270",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733316766.63527,
+        "end_time": 1733317568.307691,
+        "duration_min": 13.361207016309102,
+        "num_messages": 23,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "04122024_1253_11",
+    "session_start": 1733316849.832746,
+    "session_end": 1733316849.832746,
+    "session_start_dt": "2024-12-04T12:54:09.832746",
+    "session_end_dt": "2024-12-04T12:54:09.832746",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733316849.832746,
+        "end_time": 1733317628.265181,
+        "duration_min": 12.97387391726176,
+        "num_messages": 26,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "04122024_1253_21",
+    "session_start": 1733316849.102838,
+    "session_end": 1733316849.102838,
+    "session_start_dt": "2024-12-04T12:54:09.102838",
+    "session_end_dt": "2024-12-04T12:54:09.102838",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733316849.102838,
+        "end_time": 1733317802.140658,
+        "duration_min": 15.883963664372763,
+        "num_messages": 32,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "04122024_1256_16",
+    "session_start": 1733317003.676171,
+    "session_end": 1733317003.676171,
+    "session_start_dt": "2024-12-04T12:56:43.676171",
+    "session_end_dt": "2024-12-04T12:56:43.676171",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Information Request",
+        "start_time": 1733317003.676171,
+        "end_time": 1733317807.976679,
+        "duration_min": 13.405008467038472,
+        "num_messages": 46,
+        "user_messages": 23,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 23,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1300_3",
+    "session_start": 1733316927.065174,
+    "session_end": 1733316927.065174,
+    "session_start_dt": "2024-12-04T12:55:27.065174",
+    "session_end_dt": "2024-12-04T12:55:27.065174",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733316927.065174,
+        "end_time": 1733316933.308326,
+        "duration_min": 0.10405253171920777,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "04122024_1308_8",
+    "session_start": 1733317719.44446,
+    "session_end": 1733317719.44446,
+    "session_start_dt": "2024-12-04T13:08:39.444460",
+    "session_end_dt": "2024-12-04T13:08:39.444460",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733317719.44446,
+        "end_time": 1733317812.336896,
+        "duration_min": 1.5482072671254477,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "04122024_1345_03",
+    "session_start": 1733320668.885808,
+    "session_end": 1733320668.885808,
+    "session_start_dt": "2024-12-04T13:57:48.885808",
+    "session_end_dt": "2024-12-04T13:57:48.885808",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733320668.885808,
+        "end_time": 1733321747.326676,
+        "duration_min": 17.97401446501414,
+        "num_messages": 77,
+        "user_messages": 37,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 37,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "04122024_1345_06",
+    "session_start": 1733321733.087188,
+    "session_end": 1733321733.087188,
+    "session_start_dt": "2024-12-04T14:15:33.087188",
+    "session_end_dt": "2024-12-04T14:15:33.087188",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733321733.087188,
+        "end_time": 1733322407.209896,
+        "duration_min": 11.235378468036652,
+        "num_messages": 22,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "04122024_1345_10",
+    "session_start": 1733321030.748535,
+    "session_end": 1733321030.748535,
+    "session_start_dt": "2024-12-04T14:03:50.748535",
+    "session_end_dt": "2024-12-04T14:03:50.748535",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733321030.748535,
+        "end_time": 1733321802.537394,
+        "duration_min": 12.8631476521492,
+        "num_messages": 42,
+        "user_messages": 20,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 20,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "04122024_1345_13",
+    "session_start": 1733320845.583157,
+    "session_end": 1733320845.583157,
+    "session_start_dt": "2024-12-04T14:00:45.583157",
+    "session_end_dt": "2024-12-04T14:00:45.583157",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733320845.583157,
+        "end_time": 1733321725.879743,
+        "duration_min": 14.671609767278035,
+        "num_messages": 56,
+        "user_messages": 27,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 27,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "04122024_1345_17",
+    "session_start": 1733321797.663477,
+    "session_end": 1733321797.663477,
+    "session_start_dt": "2024-12-04T14:16:37.663477",
+    "session_end_dt": "2024-12-04T14:16:37.663477",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Response",
+        "start_time": 1733321797.663477,
+        "end_time": 1733321800.343633,
+        "duration_min": 0.04466926654179891,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "04122024_1345_7",
+    "session_start": 1733321005.159644,
+    "session_end": 1733321005.159644,
+    "session_start_dt": "2024-12-04T14:03:25.159644",
+    "session_end_dt": "2024-12-04T14:03:25.159644",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Clarification Request",
+        "start_time": 1733321005.159644,
+        "end_time": 1733321736.377186,
+        "duration_min": 12.186959036191304,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "04122024_1400_12",
+    "session_start": 1733321298.238949,
+    "session_end": 1733321298.238949,
+    "session_start_dt": "2024-12-04T14:08:18.238949",
+    "session_end_dt": "2024-12-04T14:08:18.238949",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733321298.238949,
+        "end_time": 1733321299.631435,
+        "duration_min": 0.02320809761683146,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1404_16",
+    "session_start": 1733321073.955244,
+    "session_end": 1733321073.955244,
+    "session_start_dt": "2024-12-04T14:04:33.955244",
+    "session_end_dt": "2024-12-04T14:04:33.955244",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledgment",
+        "start_time": 1733321073.955244,
+        "end_time": 1733322051.769459,
+        "duration_min": 16.296903582413993,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1415_21",
+    "session_start": 1733320721.725272,
+    "session_end": 1733320721.725272,
+    "session_start_dt": "2024-12-04T13:58:41.725272",
+    "session_end_dt": "2024-12-04T13:58:41.725272",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "How to Screenshot on PC",
+        "start_time": 1733320721.725272,
+        "end_time": 1733321759.84959,
+        "duration_min": 17.302071968714397,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "04122024_1500_03",
+    "session_start": 1733326183.043958,
+    "session_end": 1733326183.043958,
+    "session_start_dt": "2024-12-04T15:29:43.043958",
+    "session_end_dt": "2024-12-04T15:29:43.043958",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733326183.043958,
+        "end_time": 1733326708.656978,
+        "duration_min": 8.760216999053956,
+        "num_messages": 14,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "04122024_1500_08",
+    "session_start": 1733325394.696341,
+    "session_end": 1733325394.696341,
+    "session_start_dt": "2024-12-04T15:16:34.696341",
+    "session_end_dt": "2024-12-04T15:16:34.696341",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Reference Request",
+        "start_time": 1733325394.696341,
+        "end_time": 1733326596.285082,
+        "duration_min": 20.026479017734527,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "04122024_1500_11",
+    "session_start": 1733325489.015233,
+    "session_end": 1733325553.94669,
+    "session_start_dt": "2024-12-04T15:18:09.015233",
+    "session_end_dt": "2024-12-04T15:19:13.946690",
+    "total_session_duration_min": 1.0821909507115681,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 2,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733325553.94669,
+        "end_time": 1733325881.79386,
+        "duration_min": 5.464119497934977,
+        "num_messages": 6,
+        "user_messages": 2,
+        "is_esperanto": false
+      },
+      {
+        "title": "ID Submission Confirmation",
+        "start_time": 1733325489.015233,
+        "end_time": 1733326625.328854,
+        "duration_min": 18.938560350735983,
+        "num_messages": 28,
+        "user_messages": 14,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "04122024_1500_14",
+    "session_start": 1733325448.201209,
+    "session_end": 1733325448.201209,
+    "session_start_dt": "2024-12-04T15:17:28.201209",
+    "session_end_dt": "2024-12-04T15:17:28.201209",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Request",
+        "start_time": 1733325448.201209,
+        "end_time": 1733325455.139861,
+        "duration_min": 0.11564420064290365,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1500_15",
+    "session_start": 1733326095.315063,
+    "session_end": 1733326095.315063,
+    "session_start_dt": "2024-12-04T15:28:15.315063",
+    "session_end_dt": "2024-12-04T15:28:15.315063",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733326095.315063,
+        "end_time": 1733326102.124132,
+        "duration_min": 0.11348448197046916,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "04122024_1500_2",
+    "session_start": 1733325606.14529,
+    "session_end": 1733325606.14529,
+    "session_start_dt": "2024-12-04T15:20:06.145290",
+    "session_end_dt": "2024-12-04T15:20:06.145290",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Verification Request",
+        "start_time": 1733325606.14529,
+        "end_time": 1733326749.869617,
+        "duration_min": 19.06207211812337,
+        "num_messages": 28,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "04122024_1500_22",
+    "session_start": 1733325547.51805,
+    "session_end": 1733325547.51805,
+    "session_start_dt": "2024-12-04T15:19:07.518050",
+    "session_end_dt": "2024-12-04T15:19:07.518050",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing and Assistance",
+        "start_time": 1733325547.51805,
+        "end_time": 1733326684.382473,
+        "duration_min": 18.94774038394292,
+        "num_messages": 54,
+        "user_messages": 27,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 27,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "04122024_1520_18",
+    "session_start": 1733325586.952644,
+    "session_end": 1733325586.952644,
+    "session_start_dt": "2024-12-04T15:19:46.952644",
+    "session_end_dt": "2024-12-04T15:19:46.952644",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733325586.952644,
+        "end_time": 1733326424.095888,
+        "duration_min": 13.952387396494547,
+        "num_messages": 32,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "04122024_1524_5",
+    "session_start": 1733325901.088165,
+    "session_end": 1733325901.088165,
+    "session_start_dt": "2024-12-04T15:25:01.088165",
+    "session_end_dt": "2024-12-04T15:25:01.088165",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Response",
+        "start_time": 1733325901.088165,
+        "end_time": 1733326790.658669,
+        "duration_min": 14.826175065835317,
+        "num_messages": 70,
+        "user_messages": 32,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 32,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "04122024_1526_12",
+    "session_start": 1733326034.175879,
+    "session_end": 1733326034.175879,
+    "session_start_dt": "2024-12-04T15:27:14.175879",
+    "session_end_dt": "2024-12-04T15:27:14.175879",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Noted Assistance",
+        "start_time": 1733326034.175879,
+        "end_time": 1733326779.799183,
+        "duration_min": 12.427055064837138,
+        "num_messages": 22,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1527_17",
+    "session_start": 1733326054.705529,
+    "session_end": 1733326054.705529,
+    "session_start_dt": "2024-12-04T15:27:34.705529",
+    "session_end_dt": "2024-12-04T15:27:34.705529",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Mismatch Clarification",
+        "start_time": 1733326054.705529,
+        "end_time": 1733326574.713306,
+        "duration_min": 8.666796282927196,
+        "num_messages": 24,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "04122024_1536_19",
+    "session_start": 1733326589.002748,
+    "session_end": 1733326589.002748,
+    "session_start_dt": "2024-12-04T15:36:29.002748",
+    "session_end_dt": "2024-12-04T15:36:29.002748",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733326589.002748,
+        "end_time": 1733326791.484579,
+        "duration_min": 3.374697184562683,
+        "num_messages": 8,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "04122024_1612_14",
+    "session_start": 1733321561.046196,
+    "session_end": 1733321561.046196,
+    "session_start_dt": "2024-12-04T14:12:41.046196",
+    "session_end_dt": "2024-12-04T14:12:41.046196",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733321561.046196,
+        "end_time": 1733322093.322557,
+        "duration_min": 8.871272683143616,
+        "num_messages": 24,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1615_08",
+    "session_start": 1733330686.849127,
+    "session_end": 1733330686.849127,
+    "session_start_dt": "2024-12-04T16:44:46.849127",
+    "session_end_dt": "2024-12-04T16:44:46.849127",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID provided assistance",
+        "start_time": 1733330686.849127,
+        "end_time": 1733330792.260234,
+        "duration_min": 1.7568517843882243,
+        "num_messages": 6,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "04122024_1615_11",
+    "session_start": 1733330195.654107,
+    "session_end": 1733330195.654107,
+    "session_start_dt": "2024-12-04T16:36:35.654107",
+    "session_end_dt": "2024-12-04T16:36:35.654107",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733330195.654107,
+        "end_time": 1733331131.546184,
+        "duration_min": 15.598201282819112,
+        "num_messages": 18,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "04122024_1615_14",
+    "session_start": 1733329982.586229,
+    "session_end": 1733329982.586229,
+    "session_start_dt": "2024-12-04T16:33:02.586229",
+    "session_end_dt": "2024-12-04T16:33:02.586229",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733329982.586229,
+        "end_time": 1733330745.662408,
+        "duration_min": 12.717936317125956,
+        "num_messages": 24,
+        "user_messages": 11,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 11,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1615_15",
+    "session_start": 1733330850.926204,
+    "session_end": 1733330850.926204,
+    "session_start_dt": "2024-12-04T16:47:30.926204",
+    "session_end_dt": "2024-12-04T16:47:30.926204",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing and Assistance",
+        "start_time": 1733330850.926204,
+        "end_time": 1733331102.295127,
+        "duration_min": 4.189482049147288,
+        "num_messages": 12,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "04122024_1615_16",
+    "session_start": 1733330068.987802,
+    "session_end": 1733330068.987802,
+    "session_start_dt": "2024-12-04T16:34:28.987802",
+    "session_end_dt": "2024-12-04T16:34:28.987802",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733330068.987802,
+        "end_time": 1733331135.100054,
+        "duration_min": 17.768537533283233,
+        "num_messages": 38,
+        "user_messages": 19,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 19,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1615_18",
+    "session_start": 1733330121.576754,
+    "session_end": 1733330121.576754,
+    "session_start_dt": "2024-12-04T16:35:21.576754",
+    "session_end_dt": "2024-12-04T16:35:21.576754",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733330121.576754,
+        "end_time": 1733331115.499577,
+        "duration_min": 16.565380382537843,
+        "num_messages": 28,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "04122024_1615_2",
+    "session_start": 1733330773.472818,
+    "session_end": 1733330773.472818,
+    "session_start_dt": "2024-12-04T16:46:13.472818",
+    "session_end_dt": "2024-12-04T16:46:13.472818",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Timestamp Interpretation Query",
+        "start_time": 1733330773.472818,
+        "end_time": 1733330909.354655,
+        "duration_min": 2.264697285493215,
+        "num_messages": 6,
+        "user_messages": 3,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 3,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "04122024_1615_21",
+    "session_start": 1733330216.906902,
+    "session_end": 1733330216.906902,
+    "session_start_dt": "2024-12-04T16:36:56.906902",
+    "session_end_dt": "2024-12-04T16:36:56.906902",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledgement",
+        "start_time": 1733330216.906902,
+        "end_time": 1733331081.835191,
+        "duration_min": 14.415471482276917,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "04122024_1615_9",
+    "session_start": 1733330820.192474,
+    "session_end": 1733330820.192474,
+    "session_start_dt": "2024-12-04T16:47:00.192474",
+    "session_end_dt": "2024-12-04T16:47:00.192474",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733330820.192474,
+        "end_time": 1733331291.353665,
+        "duration_min": 7.852686520417532,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1630_5",
+    "session_start": 1733329871.454395,
+    "session_end": 1733329871.454395,
+    "session_start_dt": "2024-12-04T16:31:11.454395",
+    "session_end_dt": "2024-12-04T16:31:11.454395",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID provided and noted",
+        "start_time": 1733329871.454395,
+        "end_time": 1733330881.812235,
+        "duration_min": 16.83929733435313,
+        "num_messages": 34,
+        "user_messages": 17,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 17,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "04122024_1634_06",
+    "session_start": 1733330092.873818,
+    "session_end": 1733330092.873818,
+    "session_start_dt": "2024-12-04T16:34:52.873818",
+    "session_end_dt": "2024-12-04T16:34:52.873818",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733330092.873818,
+        "end_time": 1733331050.565262,
+        "duration_min": 15.961524069309235,
+        "num_messages": 38,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "04122024_1645_19",
+    "session_start": 1733330077.776535,
+    "session_end": 1733330077.776535,
+    "session_start_dt": "2024-12-04T16:34:37.776535",
+    "session_end_dt": "2024-12-04T16:34:37.776535",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Acknowledgement and Assistance",
+        "start_time": 1733330077.776535,
+        "end_time": 1733331104.260255,
+        "duration_min": 17.10806200106939,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "04122024_1730_11",
+    "session_start": 1733334633.090556,
+    "session_end": 1733334633.090556,
+    "session_start_dt": "2024-12-04T17:50:33.090556",
+    "session_end_dt": "2024-12-04T17:50:33.090556",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733334633.090556,
+        "end_time": 1733335203.511453,
+        "duration_min": 9.507014950116476,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "04122024_1730_12",
+    "session_start": 1733334952.295456,
+    "session_end": 1733334952.295456,
+    "session_start_dt": "2024-12-04T17:55:52.295456",
+    "session_end_dt": "2024-12-04T17:55:52.295456",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Acknowledgement",
+        "start_time": 1733334952.295456,
+        "end_time": 1733335275.649239,
+        "duration_min": 5.389229718844096,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "04122024_1730_13",
+    "session_start": 1733335558.335275,
+    "session_end": 1733335558.335275,
+    "session_start_dt": "2024-12-04T18:05:58.335275",
+    "session_end_dt": "2024-12-04T18:05:58.335275",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733335558.335275,
+        "end_time": 1733335660.241951,
+        "duration_min": 1.6984446009000143,
+        "num_messages": 6,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "04122024_1730_14",
+    "session_start": 1733335461.380014,
+    "session_end": 1733335461.380014,
+    "session_start_dt": "2024-12-04T18:04:21.380014",
+    "session_end_dt": "2024-12-04T18:04:21.380014",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham events weather football",
+        "start_time": 1733335461.380014,
+        "end_time": 1733335658.016043,
+        "duration_min": 3.2772671500841777,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "04122024_1730_16",
+    "session_start": 1733334994.73737,
+    "session_end": 1733334994.73737,
+    "session_start_dt": "2024-12-04T17:56:34.737370",
+    "session_end_dt": "2024-12-04T17:56:34.737370",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733334994.73737,
+        "end_time": 1733335575.883966,
+        "duration_min": 9.68577659924825,
+        "num_messages": 14,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "04122024_1730_17",
+    "session_start": 1733334715.422066,
+    "session_end": 1733334715.422066,
+    "session_start_dt": "2024-12-04T17:51:55.422066",
+    "session_end_dt": "2024-12-04T17:51:55.422066",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733334715.422066,
+        "end_time": 1733335380.263703,
+        "duration_min": 11.080693952242534,
+        "num_messages": 14,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "04122024_1730_3",
+    "session_start": 1733334472.723228,
+    "session_end": 1733334472.723228,
+    "session_start_dt": "2024-12-04T17:47:52.723228",
+    "session_end_dt": "2024-12-04T17:47:52.723228",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733334472.723228,
+        "end_time": 1733335127.540315,
+        "duration_min": 10.913618115584056,
+        "num_messages": 27,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "04122024_1730_6",
+    "session_start": 1733335008.584726,
+    "session_end": 1733335008.584726,
+    "session_start_dt": "2024-12-04T17:56:48.584726",
+    "session_end_dt": "2024-12-04T17:56:48.584726",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733335008.584726,
+        "end_time": 1733335679.788196,
+        "duration_min": 11.1867244998614,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "04122024_1753_7",
+    "session_start": 1733334760.863219,
+    "session_end": 1733334760.863219,
+    "session_start_dt": "2024-12-04T17:52:40.863219",
+    "session_end_dt": "2024-12-04T17:52:40.863219",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID reference clarification",
+        "start_time": 1733334760.863219,
+        "end_time": 1733335460.253731,
+        "duration_min": 11.656508533159892,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "04142024_1730_19",
+    "session_start": 1733335677.790995,
+    "session_end": 1733335677.790995,
+    "session_start_dt": "2024-12-04T18:07:57.790995",
+    "session_end_dt": "2024-12-04T18:07:57.790995",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Assistance",
+        "start_time": 1733335677.790995,
+        "end_time": 1733335717.168944,
+        "duration_min": 0.6562991499900818,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "05122024_1000_12",
+    "session_start": 1733393759.255064,
+    "session_end": 1733393759.255064,
+    "session_start_dt": "2024-12-05T10:15:59.255064",
+    "session_end_dt": "2024-12-05T10:15:59.255064",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733393759.255064,
+        "end_time": 1733394253.816887,
+        "duration_min": 8.242697048187257,
+        "num_messages": 24,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "05122024_1000_14",
+    "session_start": 1733394993.726092,
+    "session_end": 1733394993.726092,
+    "session_start_dt": "2024-12-05T10:36:33.726092",
+    "session_end_dt": "2024-12-05T10:36:33.726092",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733394993.726092,
+        "end_time": 1733395045.052015,
+        "duration_min": 0.8554320494333904,
+        "num_messages": 6,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "05122024_1000_15",
+    "session_start": 1733394863.321999,
+    "session_end": 1733394863.321999,
+    "session_start_dt": "2024-12-05T10:34:23.321999",
+    "session_end_dt": "2024-12-05T10:34:23.321999",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing and Assistance",
+        "start_time": 1733394863.321999,
+        "end_time": 1733395188.181482,
+        "duration_min": 5.414324716726939,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "05122024_1000_16",
+    "session_start": 1733393896.839485,
+    "session_end": 1733393896.839485,
+    "session_start_dt": "2024-12-05T10:18:16.839485",
+    "session_end_dt": "2024-12-05T10:18:16.839485",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Response",
+        "start_time": 1733393896.839485,
+        "end_time": 1733394277.437097,
+        "duration_min": 6.343293535709381,
+        "num_messages": 10,
+        "user_messages": 5,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 5,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "05122024_1000_19",
+    "session_start": 1733394192.038573,
+    "session_end": 1733394192.038573,
+    "session_start_dt": "2024-12-05T10:23:12.038573",
+    "session_end_dt": "2024-12-05T10:23:12.038573",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733394192.038573,
+        "end_time": 1733395010.672546,
+        "duration_min": 13.643899548053742,
+        "num_messages": 26,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "05122024_1000_2",
+    "session_start": 1733393935.837018,
+    "session_end": 1733393935.837018,
+    "session_start_dt": "2024-12-05T10:18:55.837018",
+    "session_end_dt": "2024-12-05T10:18:55.837018",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Request",
+        "start_time": 1733393935.837018,
+        "end_time": 1733395222.400537,
+        "duration_min": 21.44272531668345,
+        "num_messages": 50,
+        "user_messages": 24,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 24,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "05122024_1000_20",
+    "session_start": 1733394678.508362,
+    "session_end": 1733394678.508362,
+    "session_start_dt": "2024-12-05T10:31:18.508362",
+    "session_end_dt": "2024-12-05T10:31:18.508362",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733394678.508362,
+        "end_time": 1733395181.638826,
+        "duration_min": 8.385507730642955,
+        "num_messages": 22,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "05122024_1000_21",
+    "session_start": 1733394176.459425,
+    "session_end": 1733394176.459425,
+    "session_start_dt": "2024-12-05T10:22:56.459425",
+    "session_end_dt": "2024-12-05T10:22:56.459425",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Verification Request",
+        "start_time": 1733394176.459425,
+        "end_time": 1733395156.073576,
+        "duration_min": 16.326902516682942,
+        "num_messages": 52,
+        "user_messages": 25,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 25,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "05122024_1000_22",
+    "session_start": 1733394257.875722,
+    "session_end": 1733394257.875722,
+    "session_start_dt": "2024-12-05T10:24:17.875722",
+    "session_end_dt": "2024-12-05T10:24:17.875722",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733394257.875722,
+        "end_time": 1733395291.574902,
+        "duration_min": 17.228319668769835,
+        "num_messages": 16,
+        "user_messages": 8,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 8,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "05122024_1000_7",
+    "session_start": 1733393384.673398,
+    "session_end": 1733393384.673398,
+    "session_start_dt": "2024-12-05T10:09:44.673398",
+    "session_end_dt": "2024-12-05T10:09:44.673398",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Infinitive Explanation",
+        "start_time": 1733393384.673398,
+        "end_time": 1733395151.463478,
+        "duration_min": 29.44650133450826,
+        "num_messages": 26,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "05122024_1018_6",
+    "session_start": 1733393894.337185,
+    "session_end": 1733393894.337185,
+    "session_start_dt": "2024-12-05T10:18:14.337185",
+    "session_end_dt": "2024-12-05T10:18:14.337185",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733393894.337185,
+        "end_time": 1733394561.580295,
+        "duration_min": 11.120718502998352,
+        "num_messages": 40,
+        "user_messages": 19,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 19,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "05122024_1020_3",
+    "session_start": 1733394382.909874,
+    "session_end": 1733394382.909874,
+    "session_start_dt": "2024-12-05T10:26:22.909874",
+    "session_end_dt": "2024-12-05T10:26:22.909874",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Event and Item Inquiry",
+        "start_time": 1733394382.909874,
+        "end_time": 1733394391.96233,
+        "duration_min": 0.15087426900863649,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "05122024_1037_13",
+    "session_start": 1733395044.203937,
+    "session_end": 1733395044.203937,
+    "session_start_dt": "2024-12-05T10:37:24.203937",
+    "session_end_dt": "2024-12-05T10:37:24.203937",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Entry and Acknowledgement",
+        "start_time": 1733395044.203937,
+        "end_time": 1733395111.796724,
+        "duration_min": 1.1265464504559835,
+        "num_messages": 6,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "05122024_1038_18",
+    "session_start": 1733395176.805191,
+    "session_end": 1733395176.805191,
+    "session_start_dt": "2024-12-05T10:39:36.805191",
+    "session_end_dt": "2024-12-05T10:39:36.805191",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733395176.805191,
+        "end_time": 1733395180.595003,
+        "duration_min": 0.0631635308265686,
+        "num_messages": 4,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "05122024_1039_03",
+    "session_start": 1733395168.849637,
+    "session_end": 1733395168.849637,
+    "session_start_dt": "2024-12-05T10:39:28.849637",
+    "session_end_dt": "2024-12-05T10:39:28.849637",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID confirmation assistance",
+        "start_time": 1733395168.849637,
+        "end_time": 1733395935.879357,
+        "duration_min": 12.783828667799632,
+        "num_messages": 14,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "05122024_1500_10",
+    "session_start": 1733412266.702727,
+    "session_end": 1733412266.702727,
+    "session_start_dt": "2024-12-05T15:24:26.702727",
+    "session_end_dt": "2024-12-05T15:24:26.702727",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Request",
+        "start_time": 1733412266.702727,
+        "end_time": 1733413292.117592,
+        "duration_min": 17.090247750282288,
+        "num_messages": 28,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "05122024_1500_13",
+    "session_start": 1733412217.144833,
+    "session_end": 1733412217.144833,
+    "session_start_dt": "2024-12-05T15:23:37.144833",
+    "session_end_dt": "2024-12-05T15:23:37.144833",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733412217.144833,
+        "end_time": 1733413134.501865,
+        "duration_min": 15.28928386370341,
+        "num_messages": 38,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "05122024_1500_14",
+    "session_start": 1733412686.307876,
+    "session_end": 1733412686.307876,
+    "session_start_dt": "2024-12-05T15:31:26.307876",
+    "session_end_dt": "2024-12-05T15:31:26.307876",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733412686.307876,
+        "end_time": 1733413194.867171,
+        "duration_min": 8.475988248984018,
+        "num_messages": 10,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "05122024_1500_18",
+    "session_start": 1733412066.873486,
+    "session_end": 1733412066.873486,
+    "session_start_dt": "2024-12-05T15:21:06.873486",
+    "session_end_dt": "2024-12-05T15:21:06.873486",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733412066.873486,
+        "end_time": 1733412658.36128,
+        "duration_min": 9.858129898707071,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "05122024_1500_20",
+    "session_start": 1733412492.285955,
+    "session_end": 1733412492.285955,
+    "session_start_dt": "2024-12-05T15:28:12.285955",
+    "session_end_dt": "2024-12-05T15:28:12.285955",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733412492.285955,
+        "end_time": 1733413059.689193,
+        "duration_min": 9.456720634301503,
+        "num_messages": 10,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN20"
+  },
+  {
+    "participant_id": "05122024_1500_4",
+    "session_start": 1733412152.459661,
+    "session_end": 1733412152.459661,
+    "session_start_dt": "2024-12-05T15:22:32.459661",
+    "session_end_dt": "2024-12-05T15:22:32.459661",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733412152.459661,
+        "end_time": 1733413088.896179,
+        "duration_min": 15.607275299231212,
+        "num_messages": 24,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "05122024_1500_8",
+    "session_start": 1733411565.395113,
+    "session_end": 1733411565.395113,
+    "session_start_dt": "2024-12-05T15:12:45.395113",
+    "session_end_dt": "2024-12-05T15:12:45.395113",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation and Assistance",
+        "start_time": 1733411565.395113,
+        "end_time": 1733412998.091158,
+        "duration_min": 23.878267415364583,
+        "num_messages": 56,
+        "user_messages": 26,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 26,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "05122024_1515_03",
+    "session_start": 1733411746.1336,
+    "session_end": 1733411746.1336,
+    "session_start_dt": "2024-12-05T15:15:46.133600",
+    "session_end_dt": "2024-12-05T15:15:46.133600",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID confirmation and assistance",
+        "start_time": 1733411746.1336,
+        "end_time": 1733413017.122422,
+        "duration_min": 21.183147033055622,
+        "num_messages": 28,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "05122024_1515_12",
+    "session_start": 1733411746.507299,
+    "session_end": 1733411746.507299,
+    "session_start_dt": "2024-12-05T15:15:46.507299",
+    "session_end_dt": "2024-12-05T15:15:46.507299",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Format Interpretation",
+        "start_time": 1733411746.507299,
+        "end_time": 1733413181.468902,
+        "duration_min": 23.916026719411214,
+        "num_messages": 40,
+        "user_messages": 20,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 20,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "05122024_1515_5",
+    "session_start": 1733411725.297646,
+    "session_end": 1733411725.297646,
+    "session_start_dt": "2024-12-05T15:15:25.297646",
+    "session_end_dt": "2024-12-05T15:15:25.297646",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Response",
+        "start_time": 1733411725.297646,
+        "end_time": 1733412595.116901,
+        "duration_min": 14.496987581253052,
+        "num_messages": 49,
+        "user_messages": 24,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 24,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "05122024_1519_02",
+    "session_start": 1733411992.545977,
+    "session_end": 1733411992.545977,
+    "session_start_dt": "2024-12-05T15:19:52.545977",
+    "session_end_dt": "2024-12-05T15:19:52.545977",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID confirmation and assistance",
+        "start_time": 1733411992.545977,
+        "end_time": 1733412991.898232,
+        "duration_min": 16.65587091445923,
+        "num_messages": 43,
+        "user_messages": 20,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 20,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "05122024_1526_22",
+    "session_start": 1733412376.796995,
+    "session_end": 1733412376.796995,
+    "session_start_dt": "2024-12-05T15:26:16.796995",
+    "session_end_dt": "2024-12-05T15:26:16.796995",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing Inquiry",
+        "start_time": 1733412376.796995,
+        "end_time": 1733412377.465571,
+        "duration_min": 0.011142933368682861,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "05122024_1530_09",
+    "session_start": 1733412669.351712,
+    "session_end": 1733412669.351712,
+    "session_start_dt": "2024-12-05T15:31:09.351712",
+    "session_end_dt": "2024-12-05T15:31:09.351712",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733412669.351712,
+        "end_time": 1733413437.855068,
+        "duration_min": 12.808389266331991,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "05122024_1600_14",
+    "session_start": 1733416795.659432,
+    "session_end": 1733416795.659432,
+    "session_start_dt": "2024-12-05T16:39:55.659432",
+    "session_end_dt": "2024-12-05T16:39:55.659432",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733416795.659432,
+        "end_time": 1733417679.407703,
+        "duration_min": 14.729137849807739,
+        "num_messages": 36,
+        "user_messages": 17,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 17,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "05122024_1600_2",
+    "session_start": 1733416848.983691,
+    "session_end": 1733416848.983691,
+    "session_start_dt": "2024-12-05T16:40:48.983691",
+    "session_end_dt": "2024-12-05T16:40:48.983691",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation",
+        "start_time": 1733416848.983691,
+        "end_time": 1733417751.431662,
+        "duration_min": 15.04079951842626,
+        "num_messages": 34,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN2"
+  },
+  {
+    "participant_id": "05122024_1615_03",
+    "session_start": 1733416997.269941,
+    "session_end": 1733416997.269941,
+    "session_start_dt": "2024-12-05T16:43:17.269941",
+    "session_end_dt": "2024-12-05T16:43:17.269941",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Kiel diri \u015dati",
+        "start_time": 1733416997.269941,
+        "end_time": 1733417780.301815,
+        "duration_min": 13.050531232357026,
+        "num_messages": 26,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "05122024_1615_10",
+    "session_start": 1733416603.612039,
+    "session_end": 1733416603.612039,
+    "session_start_dt": "2024-12-05T16:36:43.612039",
+    "session_end_dt": "2024-12-05T16:36:43.612039",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Timestamp Explanation",
+        "start_time": 1733416603.612039,
+        "end_time": 1733417835.119246,
+        "duration_min": 20.525120115280153,
+        "num_messages": 42,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "05122024_1615_12",
+    "session_start": 1733417082.983858,
+    "session_end": 1733417082.983858,
+    "session_start_dt": "2024-12-05T16:44:42.983858",
+    "session_end_dt": "2024-12-05T16:44:42.983858",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID request summary",
+        "start_time": 1733417082.983858,
+        "end_time": 1733417886.318028,
+        "duration_min": 13.388902831077576,
+        "num_messages": 36,
+        "user_messages": 17,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 17,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "05122024_1615_17",
+    "session_start": 1733416482.560618,
+    "session_end": 1733416482.560618,
+    "session_start_dt": "2024-12-05T16:34:42.560618",
+    "session_end_dt": "2024-12-05T16:34:42.560618",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733416482.560618,
+        "end_time": 1733417852.324885,
+        "duration_min": 22.829404449462892,
+        "num_messages": 52,
+        "user_messages": 25,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 25,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "05122024_1615_18",
+    "session_start": 1733417075.807141,
+    "session_end": 1733417075.807141,
+    "session_start_dt": "2024-12-05T16:44:35.807141",
+    "session_end_dt": "2024-12-05T16:44:35.807141",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Acknowledgment",
+        "start_time": 1733417075.807141,
+        "end_time": 1733417719.58159,
+        "duration_min": 10.729574147860209,
+        "num_messages": 20,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN18"
+  },
+  {
+    "participant_id": "05122024_1615_21",
+    "session_start": 1733416962.455209,
+    "session_end": 1733416962.455209,
+    "session_start_dt": "2024-12-05T16:42:42.455209",
+    "session_end_dt": "2024-12-05T16:42:42.455209",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Sharing and Assistance",
+        "start_time": 1733416962.455209,
+        "end_time": 1733417885.26886,
+        "duration_min": 15.380227518081664,
+        "num_messages": 62,
+        "user_messages": 31,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 31,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN21"
+  },
+  {
+    "participant_id": "05122024_1615_4",
+    "session_start": 1733416608.450479,
+    "session_end": 1733416608.450479,
+    "session_start_dt": "2024-12-05T16:36:48.450479",
+    "session_end_dt": "2024-12-05T16:36:48.450479",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry and Assistance",
+        "start_time": 1733416608.450479,
+        "end_time": 1733417825.767686,
+        "duration_min": 20.288620114326477,
+        "num_messages": 57,
+        "user_messages": 28,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 28,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "05122024_1640_15",
+    "session_start": 1733416806.515771,
+    "session_end": 1733416806.515771,
+    "session_start_dt": "2024-12-05T16:40:06.515771",
+    "session_end_dt": "2024-12-05T16:40:06.515771",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Update Confirmation",
+        "start_time": 1733416806.515771,
+        "end_time": 1733417316.29019,
+        "duration_min": 8.496240317821503,
+        "num_messages": 16,
+        "user_messages": 7,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 7,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "05122024_1647_16",
+    "session_start": 1733417236.896432,
+    "session_end": 1733417236.896432,
+    "session_start_dt": "2024-12-05T16:47:16.896432",
+    "session_end_dt": "2024-12-05T16:47:16.896432",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Response",
+        "start_time": 1733417236.896432,
+        "end_time": 1733417855.211543,
+        "duration_min": 10.305251852671306,
+        "num_messages": 25,
+        "user_messages": 13,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 13,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "05122024_1652_09",
+    "session_start": 1733417535.127437,
+    "session_end": 1733417535.127437,
+    "session_start_dt": "2024-12-05T16:52:15.127437",
+    "session_end_dt": "2024-12-05T16:52:15.127437",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance",
+        "start_time": 1733417535.127437,
+        "end_time": 1733417536.52433,
+        "duration_min": 0.023281546433766682,
+        "num_messages": 3,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "20411833_1000_04",
+    "session_start": 1733307966.95651,
+    "session_end": 1733307966.95651,
+    "session_start_dt": "2024-12-04T10:26:06.956510",
+    "session_end_dt": "2024-12-04T10:26:06.956510",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID clarification request",
+        "start_time": 1733307966.95651,
+        "end_time": 1733308940.321934,
+        "duration_min": 16.22275706529617,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN4"
+  },
+  {
+    "participant_id": "20416281_1345_09",
+    "session_start": 1733321377.696404,
+    "session_end": 1733321377.696404,
+    "session_start_dt": "2024-12-04T14:09:37.696404",
+    "session_end_dt": "2024-12-04T14:09:37.696404",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Inquiry Assistance",
+        "start_time": 1733321377.696404,
+        "end_time": 1733322124.227028,
+        "duration_min": 12.44217706521352,
+        "num_messages": 32,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "20430591_1230_5",
+    "session_start": 1733316862.106744,
+    "session_end": 1733316862.106744,
+    "session_start_dt": "2024-12-04T12:54:22.106744",
+    "session_end_dt": "2024-12-04T12:54:22.106744",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733316862.106744,
+        "end_time": 1733316864.034893,
+        "duration_min": 0.03213581641515096,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN5"
+  },
+  {
+    "participant_id": "20452200_1029_11",
+    "session_start": 1733308158.911319,
+    "session_end": 1733308158.911319,
+    "session_start_dt": "2024-12-04T10:29:18.911319",
+    "session_end_dt": "2024-12-04T10:29:18.911319",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Product Identifier Inquiry",
+        "start_time": 1733308158.911319,
+        "end_time": 1733308792.783038,
+        "duration_min": 10.564528648058573,
+        "num_messages": 8,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN11"
+  },
+  {
+    "participant_id": "20479398_1230_19",
+    "session_start": 1733316930.460395,
+    "session_end": 1733316930.460395,
+    "session_start_dt": "2024-12-04T12:55:30.460395",
+    "session_end_dt": "2024-12-04T12:55:30.460395",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Product Identifier Analysis",
+        "start_time": 1733316930.460395,
+        "end_time": 1733317814.45309,
+        "duration_min": 14.733211580912272,
+        "num_messages": 46,
+        "user_messages": 23,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 23,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN19"
+  },
+  {
+    "participant_id": "20544082_1145_17",
+    "session_start": 1733226317.201,
+    "session_end": 1733226317.201,
+    "session_start_dt": "2024-12-03T11:45:17.201000",
+    "session_end_dt": "2024-12-03T11:45:17.201000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Confirmation Assistance",
+        "start_time": 1733226317.201,
+        "end_time": 1733226954.555507,
+        "duration_min": 10.622575116157531,
+        "num_messages": 28,
+        "user_messages": 12,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 12,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "20562616_1115_10",
+    "session_start": 1733312929.901407,
+    "session_end": 1733312929.901407,
+    "session_start_dt": "2024-12-04T11:48:49.901407",
+    "session_end_dt": "2024-12-04T11:48:49.901407",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request and Assistance",
+        "start_time": 1733312929.901407,
+        "end_time": 1733313670.923469,
+        "duration_min": 12.350367701053619,
+        "num_messages": 22,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "20588493_1142_22",
+    "session_start": 1733312479.113766,
+    "session_end": 1733312479.113766,
+    "session_start_dt": "2024-12-04T11:41:19.113766",
+    "session_end_dt": "2024-12-04T11:41:19.113766",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID request assistance",
+        "start_time": 1733312479.113766,
+        "end_time": 1733313230.665955,
+        "duration_min": 12.525869818528493,
+        "num_messages": 20,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN22"
+  },
+  {
+    "participant_id": "20596864_1028_04",
+    "session_start": 1733308117.479121,
+    "session_end": 1733308117.479121,
+    "session_start_dt": "2024-12-04T10:28:37.479121",
+    "session_end_dt": "2024-12-04T10:28:37.479121",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Request Assistance",
+        "start_time": 1733308117.479121,
+        "end_time": 1733309002.157945,
+        "duration_min": 14.744647065798441,
+        "num_messages": 44,
+        "user_messages": 21,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 21,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN10"
+  },
+  {
+    "participant_id": "20599195_1000_13",
+    "session_start": 1733307981.345474,
+    "session_end": 1733307981.345474,
+    "session_start_dt": "2024-12-04T10:26:21.345474",
+    "session_end_dt": "2024-12-04T10:26:21.345474",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Provided",
+        "start_time": 1733307981.345474,
+        "end_time": 1733308718.569865,
+        "duration_min": 12.287073183059693,
+        "num_messages": 32,
+        "user_messages": 15,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 15,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "20606627_1000_14",
+    "session_start": 1733221442.903,
+    "session_end": 1733221442.903,
+    "session_start_dt": "2024-12-03T10:24:02.903000",
+    "session_end_dt": "2024-12-03T10:24:02.903000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733221442.903,
+        "end_time": 1733221444.224545,
+        "duration_min": 0.022025748093922933,
+        "num_messages": 2,
+        "user_messages": 1,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 1,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  },
+  {
+    "participant_id": "20643527_1200_15",
+    "session_start": 1733141307.477,
+    "session_end": 1733141307.477,
+    "session_start_dt": "2024-12-02T12:08:27.477000",
+    "session_end_dt": "2024-12-02T12:08:27.477000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "ID Assistance Request",
+        "start_time": 1733141307.477,
+        "end_time": 1733142209.325984,
+        "duration_min": 15.030816400051117,
+        "num_messages": 36,
+        "user_messages": 17,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 17,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "28112024_1200_12",
+    "session_start": 1732797066.432,
+    "session_end": 1732797066.432,
+    "session_start_dt": "2024-11-28T12:31:06.432000",
+    "session_end_dt": "2024-11-28T12:31:06.432000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Event Time Analysis",
+        "start_time": 1732797066.432,
+        "end_time": 1732797700.877627,
+        "duration_min": 10.574093782901764,
+        "num_messages": 23,
+        "user_messages": 10,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 10,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN9"
+  },
+  {
+    "participant_id": "28112024_1200_13",
+    "session_start": 1732796848.057,
+    "session_end": 1732796848.057,
+    "session_start_dt": "2024-11-28T12:27:28.057000",
+    "session_end_dt": "2024-11-28T12:27:28.057000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Timestamp Interpretation Query",
+        "start_time": 1732796848.057,
+        "end_time": 1732797814.430818,
+        "duration_min": 16.106230302651724,
+        "num_messages": 45,
+        "user_messages": 22,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 22,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN13"
+  },
+  {
+    "participant_id": "28112024_1200_15",
+    "session_start": 1732796775.723,
+    "session_end": 1732796775.723,
+    "session_start_dt": "2024-11-28T12:26:15.723000",
+    "session_end_dt": "2024-11-28T12:26:15.723000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Event ID Interpretation",
+        "start_time": 1732796775.723,
+        "end_time": 1732797700.992432,
+        "duration_min": 15.421157201131185,
+        "num_messages": 40,
+        "user_messages": 20,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 20,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN15"
+  },
+  {
+    "participant_id": "28112024_1200_16",
+    "session_start": 1732797064.022,
+    "session_end": 1732797064.022,
+    "session_start_dt": "2024-11-28T12:31:04.022000",
+    "session_end_dt": "2024-11-28T12:31:04.022000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Event Schedule Summary",
+        "start_time": 1732797064.022,
+        "end_time": 1732797730.407101,
+        "duration_min": 11.106418347358703,
+        "num_messages": 18,
+        "user_messages": 9,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 9,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN16"
+  },
+  {
+    "participant_id": "28112024_1200_17",
+    "session_start": 1732796717.572,
+    "session_end": 1732796717.572,
+    "session_start_dt": "2024-11-28T12:25:17.572000",
+    "session_end_dt": "2024-11-28T12:25:17.572000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 1,
+    "num_other_conversations": 0,
+    "esperanto_queries": [
+      {
+        "title": "Fartas en Esperanto",
+        "start_time": 1732796717.572,
+        "end_time": 1732797579.6925673,
+        "duration_min": 14.368676122029623,
+        "num_messages": 4,
+        "user_messages": 2,
+        "is_esperanto": true
+      }
+    ],
+    "other_queries": [],
+    "total_user_messages": 2,
+    "avg_esperanto_duration": 14.368676122029623,
+    "csn_folder": "CSN17"
+  },
+  {
+    "participant_id": "28112024_1200_8",
+    "session_start": 1732796688.629,
+    "session_end": 1732796688.629,
+    "session_start_dt": "2024-11-28T12:24:48.629000",
+    "session_end_dt": "2024-11-28T12:24:48.629000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Weather Update",
+        "start_time": 1732796688.629,
+        "end_time": 1732797677.774189,
+        "duration_min": 16.485753150780997,
+        "num_messages": 36,
+        "user_messages": 18,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 18,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN8"
+  },
+  {
+    "participant_id": "28112024_1222_3",
+    "session_start": 1732796573.137,
+    "session_end": 1732796573.137,
+    "session_start_dt": "2024-11-28T12:22:53.137000",
+    "session_end_dt": "2024-11-28T12:22:53.137000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Code Interpretation Request",
+        "start_time": 1732796573.137,
+        "end_time": 1732797700.394849,
+        "duration_min": 18.78763081630071,
+        "num_messages": 56,
+        "user_messages": 28,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 28,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN3"
+  },
+  {
+    "participant_id": "28112024_1223_6",
+    "session_start": 1732796595.971,
+    "session_end": 1732796595.971,
+    "session_start_dt": "2024-11-28T12:23:15.971000",
+    "session_end_dt": "2024-11-28T12:23:15.971000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Event Schedule Query",
+        "start_time": 1732796595.971,
+        "end_time": 1732797724.007201,
+        "duration_min": 18.80060335000356,
+        "num_messages": 32,
+        "user_messages": 16,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 16,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN6"
+  },
+  {
+    "participant_id": "28112024_1225_7",
+    "session_start": 1732796745.748,
+    "session_end": 1732796745.748,
+    "session_start_dt": "2024-11-28T12:25:45.748000",
+    "session_end_dt": "2024-11-28T12:25:45.748000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Nottingham Weather Forecast",
+        "start_time": 1732796745.748,
+        "end_time": 1732797725.438701,
+        "duration_min": 16.328178350130717,
+        "num_messages": 10,
+        "user_messages": 4,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 4,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN7"
+  },
+  {
+    "participant_id": "28112024_1235_14",
+    "session_start": 1732797321.27,
+    "session_end": 1732797321.27,
+    "session_start_dt": "2024-11-28T12:35:21.270000",
+    "session_end_dt": "2024-11-28T12:35:21.270000",
+    "total_session_duration_min": 0.0,
+    "num_esperanto_conversations": 0,
+    "num_other_conversations": 1,
+    "esperanto_queries": [],
+    "other_queries": [
+      {
+        "title": "Timestamp interpretation request",
+        "start_time": 1732797321.27,
+        "end_time": 1732797875.488296,
+        "duration_min": 9.236971600850422,
+        "num_messages": 12,
+        "user_messages": 6,
+        "is_esperanto": false
+      }
+    ],
+    "total_user_messages": 6,
+    "avg_esperanto_duration": 0,
+    "csn_folder": "CSN14"
+  }
+]
